@@ -1,4 +1,4 @@
----
+<!-- BANNER -->
 <p align="center">
   <img src="assets_github/banner.gif" alt="Banner">
 </p>
