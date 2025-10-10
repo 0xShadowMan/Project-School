@@ -16,8 +16,12 @@
 
 My simple Project in school, ShadowTools, finds WiFi logs and displays the real WiFi password. That's for beginners in cybersecurity for fun this role. Also, make for students in school to fun in class students like!
 
+<p align="lest">
+  <img src="assets_github/hackerman.gif" width="400">
+</p>
 
-<img width="764" height="574" alt="Image" src="https://github.com/user-attachments/assets/85cd24d5-c3fd-4c52-889f-88b8bfe1a9fb" />
+
+<img width="400" height="474" alt="Image" src="https://github.com/user-attachments/assets/85cd24d5-c3fd-4c52-889f-88b8bfe1a9fb" />
 
 ---
 
@@ -108,6 +112,13 @@ if ($profiles.Count -eq 0) {
     }
     $results | Format-Table -AutoSize
 }
+
+```
+---
+## Note
+When you are editing this `shadowtools.cpp `, then use this command
+```
+g++ shadowtools.cpp icon.o -o ShadowTools.exe -mwindows -std=c++17 -lgdiplus -lwinmm -lole32 -luuid -lcomctl32
 
 ```
 
