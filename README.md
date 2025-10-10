@@ -14,7 +14,10 @@
 
 ## 🧩 About Project-School
 
-My simple Project in school, ShadowTools, finds WiFi logs and displays the real WiFi password. That's for beginners in cybersecurity for fun this role. Also, make for students in school to fun in class like
+My simple Project in school, ShadowTools, finds WiFi logs and displays the real WiFi password. That's for beginners in cybersecurity for fun this role. Also, make for students in school to fun in class students like!
+
+
+<img width="764" height="574" alt="Image" src="https://github.com/user-attachments/assets/85cd24d5-c3fd-4c52-889f-88b8bfe1a9fb" />
 
 ---
 
