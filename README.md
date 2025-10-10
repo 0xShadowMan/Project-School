@@ -29,7 +29,7 @@
 - 🕹️ 100% safe & ethical environment, but show real results.
 
 ---
-✨ Visual & Vibe
+<img width="26" height="26" alt="Image" src="https://github.com/user-attachments/assets/3a59a033-0db6-42b5-a632-ee98afaaa1c8" />  Visual & Vibe✨
 
 Neon-green console text, owner-drawn buttons, and retro terminal vibes.
 
@@ -50,6 +50,6 @@ Make awesome videos like this — share them with your friends! 😎 <img width=
 ---
 ## 👋 Author
 
-Shohanur (0xshadowman) — Student, builder, and creative tinkerer😁.
+MD Shohanur Rahman (MR.ShadowMan) — Student, builder, and creative tinkerer 😁.
 
 Made for school students. Stay curious. Stay ethical. 🚀
