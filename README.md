@@ -6,7 +6,7 @@
 
 <h1 align="center">⚡ Script Kiddie Ultra Pro Max ⚡</h1>
 <p align="center">
-  <b>Make cool bro in school 😘<br>
+  <b>Cool hackerman bro in school 😘<br>
   Make • Build • Use it • Add features • Repeat</b>
 </p>
 
@@ -14,7 +14,8 @@
 
 ## 🧩 About Project-School
 
-My simple Project in school, ShadowTools, finds WiFi logs and displays the real WiFi password. That's for beginners in cybersecurity for fun this role. Also, make for students in school to fun in class like 
+My simple Project in school, ShadowTools, finds WiFi logs and displays the real WiFi password. That's for beginners in cybersecurity for fun this role. Also, make for students in school to fun in class like
+
 ---
 
 ## 🔥 Features
