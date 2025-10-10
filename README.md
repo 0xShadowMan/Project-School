@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">⚡ Script Kiddie: Ultra Pro Max ⚡</h1>
+<h1 align="center">⚡ Script Kiddie Ultra Pro Max ⚡</h1>
 <p align="center">
   <b>Make cool bro in school 😘<br>
   Make • Build • Use it • Add features • Repeat</b>
@@ -47,6 +47,39 @@ Make awesome videos like this — share them with your friends! 😎 <img width=
 
 <https://github.com/user-attachments/assets/5174a27f-5fa2-43f2-9119-91c032de5a87>
 
+---
+## 🎛️ **Folder Structure Preview**
+
+```
+Project-School/
+│
+├─ assets_github/
+│ └─ ... (all assets for README, banners, etc.)
+│
+├─ images/
+│ ├─ image (1).jpg
+│ ├─ image (1).png
+│ ├─ image (2).jpg
+│ ├─ image (3).jpg
+│ ├─ image (4).jpg
+│ ├─ image (5).jpg
+│ └─ image (6).jpg
+│
+├─ music/
+│ ├─ music (1).mp3
+│ ├─ music (2).mp3
+│ ├─ music (3).mp3
+│ ├─ music (4).mp3
+│ ├─ music (5).mp3
+│ ├─ music (6).mp3
+│ └─ music (7).mp3
+│
+├─ icon.o
+├─ icon.rc
+├─ logs.log
+├─ shadowtools.cpp
+└─ ShadowTools.exe
+```
 ---
 ## 👋 Author
 
