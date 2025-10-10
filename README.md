@@ -130,9 +130,9 @@ Run: double-click ShadowTools.exe or run from PowerShell/cmd.
 
 ---
 ## 👩‍💻 Editing & Notes
-Edit shadowtools.cpp to add features or change behavior (mock-scan logic, UI text, images).
+Edit `shadowtools.cpp` to add features or change behavior (mock-scan logic, UI text, images).
 
-Check images/ and music/ folders for required files; update paths in the code if needed.
+Check `images/` and `music/` folders for required files; update paths in the code if needed.
 
 Logs are written to logs.log in the application directory.
 
