@@ -42,7 +42,7 @@ Clean Win32 demo that demonstrates how UI, logging, and mock tools integrate.
 
 ---
 ## <img src="https://github.com/user-attachments/assets/2f310698-0663-47b2-888a-33408b75eac9" width="30" height="30"> Hangout Highlights
-Make awesome videos like this — share them with your friends! 😎✨ 
+Make awesome videos like this — share them with your friends! 😎 <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/41584566-651f-4103-97a1-a3ed2d482a5c" />
 
 
 <https://github.com/user-attachments/assets/5174a27f-5fa2-43f2-9119-91c032de5a87>
@@ -50,6 +50,6 @@ Make awesome videos like this — share them with your friends! 😎✨
 ---
 ## 👋 Author
 
-Shohanur (0xshadowman) — Student, builder, and creative tinkerer.
+Shohanur (0xshadowman) — Student, builder, and creative tinkerer😁.
 
-Made for school. Stay curious. Stay ethical. 🚀
+Made for school students. Stay curious. Stay ethical. 🚀
