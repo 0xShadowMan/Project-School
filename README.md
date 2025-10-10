@@ -22,11 +22,11 @@
 
 ## 🔥 Features
 - ⚙️ Beginner-friendly demos: Win32 C++ UI, mock scanners, and safe command examples.
-- 🎯 Logs: All actions are appended to logs.log for storing the result.
-- 📜 Persistent logs: All actions are written to logs.log for storing the result.
-- 🚀 “Script Kiddie Ultra Pro Max” design — cool UI, Owner-drawn buttons, GDI+ banner images, and neon styling.
-- 🎵 Optional audio: Background tracks (offline, local files) to complete the vibe.  
-- 🕹️ 100% safe & ethical environment, but show real results.
+- 🎯 Logs: All actions are appended to `logs.log` for review and persistence.
+- 🚀 “Script Kiddie Ultra Pro Max” design — cool UI, owner-drawn buttons, GDI+ banner images, and neon styling.
+- 🎵 Optional audio: Background tracks (offline, local files) to complete the vibe.
+- 💻 Editable: You can modify `shadowtools.cpp`, add features, and use them! 💻
+- 🕹️ 100% safe & ethical environment, with realistic mock results.
 
 ---
 <img width="26" height="26" alt="Image" src="https://github.com/user-attachments/assets/3a59a033-0db6-42b5-a632-ee98afaaa1c8" />  Visual & Vibe✨
