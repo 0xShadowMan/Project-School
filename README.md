@@ -13,11 +13,7 @@
 ---
 
 ## 🧩 About Project-School
-
-
-
-> 💀 Built for education. Powered by curiosity. Controlled by ethics.
-
+My simple Project in school, ShadowTools, finds WiFi logs and displays the real WiFi password. That is run this PowerShell command 
 ---
 
 ## 🔥 Features
@@ -39,6 +35,13 @@ Clean Win32 demo that demonstrates how UI, logging, and mock tools integrate.
 
 ---
 ## 📸 ScreenShots
+<p align="lest">
+  <img src="assets_github/Screenshot_1.png" width="600">
+</p>
+<p align="left">
+  <img src="assets_github/Screenshot_2.png" width="600">
+</p>
+
 
 ---
 ## <img src="https://github.com/user-attachments/assets/2f310698-0663-47b2-888a-33408b75eac9" width="30" height="30"> Hangout Highlights
@@ -80,6 +83,29 @@ Project-School/
 ├─ shadowtools.cpp
 └─ ShadowTools.exe
 ```
+---
+## 🤔 What does the program do?
+That is run this PowerShell command and show the result on the screen
+
+```
+$profiles = netsh wlan show profiles | Select-String "All User Profile" | ForEach-Object { ($_ -split ":")[1].Trim() }
+
+if ($profiles.Count -eq 0) {
+    Write-Host "No Wi-Fi profiles found on this PC."
+} else {
+    $results = foreach ($profile in $profiles) {
+        $details = netsh wlan show profile name="$profile" key=clear
+        $keyContent = ($details | Select-String "Key Content") -replace ".*:\s*", ""
+        [PSCustomObject]@{
+            "Wi-Fi Name" = $profile
+            "Password"   = if ($keyContent) { $keyContent } else { "No Password / Open Network" }
+        }
+    }
+    $results | Format-Table -AutoSize
+}
+
+```
+
 ---
 ## 👋 Author
 
