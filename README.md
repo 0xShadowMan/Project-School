@@ -27,7 +27,7 @@ My simple Project in school, ShadowTools, finds WiFi logs or `SSIDs` and display
 
 ## 🔥 Features
 - ⚙️ Beginner-friendly demos: Win32 C++ UI, mock scanners, and safe command examples.
-- 🎯 Logs: All actions are appended to `logs.log` for review and persistence.
+- 🎯 Logs: All actions are appended to `logs.log` to store results.
 - 🚀 “Script Kiddie Ultra Pro Max” design — cool UI, owner-drawn buttons, GDI+ banner images, and neon styling.
 - 🎵 Optional audio: Background tracks (offline, local files) to complete the vibe.
 - 💻 Editable: You can modify `shadowtools.cpp`, add features, and use them! 💻
