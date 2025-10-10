@@ -6,16 +6,15 @@
 
 <h1 align="center">⚡ Script Kiddie: Ultra Pro Max ⚡</h1>
 <p align="center">
-  <b>The Cyber Playground for Future Pros 🧠<br>
-  Learn • Build • Break • Fix • Repeat</b>
+  <b>Make cool bro in school 😘<br>
+  Make • Build • Use it • Add features • Repeat</b>
 </p>
 
 ---
 
 ## 🧩 About Project-School
 
-**Project-School** is not your average repo — it’s an **educational cyber-lab** made for learners who want to feel like pros while staying ethical.  
-It’s flashy, fun, and full of experiments to help you master the art of automation, scripting, and security in style. 😎
+
 
 > 💀 Built for education. Powered by curiosity. Controlled by ethics.
 
@@ -24,18 +23,19 @@ It’s flashy, fun, and full of experiments to help you master the art of automa
 ## 🔥 Features
 - ⚙️ Beginner-friendly cyber scripts & automation tools  
 - 🧠 Hands-on labs for Linux, Python, AppSec, and recon basics  
-- 🎯 Step-by-step practice tasks with clean explanations  
+- 🎯 Logs: All actions are appended to logs.log for storing the result.
 - 🚀 “Script Kiddie Ultra Pro Max” design — cool UI, clean code  
-- 🕹️ 100% safe & ethical environment (no real-world attacks)
+- 🕹️ 100% safe & ethical environment, but show real results.
+
+---
+✨ Visual & Vibe
+
+Neon-green console text, owner-drawn buttons, and retro terminal vibes.
+
+Rotating banner images and background tunes for that hacker-movie atmosphere.
+
+Clean Win32 demo that demonstrates how UI, logging, and mock tools integrate.
 
 ---
 
-## 🚀 Quick Start
-```bash
-# Clone the repo
-git clone https://github.com/0xshadowman/Project-School.git
-cd Project-School
 
-# Explore the demos
-cd demos
-bash start_lab.sh
