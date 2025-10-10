@@ -44,8 +44,7 @@ Clean Win32 demo that demonstrates how UI, logging, and mock tools integrate.
 ## ShowUps in friends 
 Make cool videos like this, share with your friends
 
-<a href="assets_github/project.mp4">Watch Project Video</a>
-
+https://github.com/user-attachments/assets/5174a27f-5fa2-43f2-9119-91c032de5a87
 
 ---
 ## 👋 Author
