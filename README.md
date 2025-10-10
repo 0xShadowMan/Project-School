@@ -13,7 +13,8 @@
 ---
 
 ## 🧩 About Project-School
-My simple Project in school, ShadowTools, finds WiFi logs and displays the real WiFi password. That is run this PowerShell command 
+
+My simple Project in school, ShadowTools, finds WiFi logs and displays the real WiFi password. That's for beginners in cybersecurity for fun this role. Also, make for students in school to fun in class like 
 ---
 
 ## 🔥 Features
