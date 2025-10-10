@@ -42,7 +42,12 @@ Clean Win32 demo that demonstrates how UI, logging, and mock tools integrate.
 
 ---
 ## ShowUps in friends 
-make cool videos like this shere in your friends
+Make cool videos like this, share with your friends
+
+ <video width="640" height="360" controls>
+  <source src="assets_github/project.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
