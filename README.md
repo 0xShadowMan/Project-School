@@ -21,10 +21,11 @@
 ---
 
 ## 🔥 Features
-- ⚙️ Beginner-friendly cyber scripts & automation tools  
-- 🧠 Hands-on labs for Linux, Python, AppSec, and recon basics  
+- ⚙️ Beginner-friendly demos: Win32 C++ UI, mock scanners, and safe command examples.
 - 🎯 Logs: All actions are appended to logs.log for storing the result.
-- 🚀 “Script Kiddie Ultra Pro Max” design — cool UI, clean code  
+- 📜 Persistent logs: All actions are written to logs.log for storing the result.
+- 🚀 “Script Kiddie Ultra Pro Max” design — cool UI, Owner-drawn buttons, GDI+ banner images, and neon styling.
+- 🎵 Optional audio: Background tracks (offline, local files) to complete the vibe.  
 - 🕹️ 100% safe & ethical environment, but show real results.
 
 ---
@@ -37,5 +38,11 @@ Rotating banner images and background tunes for that hacker-movie atmosphere.
 Clean Win32 demo that demonstrates how UI, logging, and mock tools integrate.
 
 ---
+## 📸 ScreenShots
+
+---
+## ShowUps in friends 
+make cool videos like this shere in your friends
+
 
 
