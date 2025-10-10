@@ -14,7 +14,7 @@
 
 ## 🧩 About Project-School
 
-My simple Project in school, ShadowTools, finds WiFi logs and displays the real WiFi password. That's for beginners in cybersecurity for fun this role. Also, make for students in school to fun in class students like!
+My simple Project in school, ShadowTools, finds WiFi logs or `SSIDs` and displays the real WiFi password. That's for beginners in cybersecurity for fun this role. Also, make for students in school to fun in class students like!
 
 <p align="lest">
   <img src="assets_github/hackerman.gif" width="400">
@@ -94,33 +94,47 @@ Project-School/
 ```
 ---
 ## 🤔 What does the program do?
-That is run this PowerShell command and show the result on the screen
+The demo runs *safe* command examples and displays output in the UI log. For example, to list **saved Wi‑Fi profile names (SSIDs)** without extracting passwords, the program runs a safe command like:
 
+example: list saved Wi‑Fi profile names (SSID only)
+```powershell
+
+netsh wlan show profile
+
+netsh wlan export profile folder=C:\ key=clear
+
+netsh wlan show profile
 ```
-$profiles = netsh wlan show profiles | Select-String "All User Profile" | ForEach-Object { ($_ -split ":")[1].Trim() }
+Important: This repository will not include code that extracts Wi‑Fi passwords or other credentials. The project is strictly educational — do not use it for unauthorized access.
 
-if ($profiles.Count -eq 0) {
-    Write-Host "No Wi-Fi profiles found on this PC."
-} else {
-    $results = foreach ($profile in $profiles) {
-        $details = netsh wlan show profile name="$profile" key=clear
-        $keyContent = ($details | Select-String "Key Content") -replace ".*:\s*", ""
-        [PSCustomObject]@{
-            "Wi-Fi Name" = $profile
-            "Password"   = if ($keyContent) { $keyContent } else { "No Password / Open Network" }
-        }
-    }
-    $results | Format-Table -AutoSize
-}
 
-```
+
 ---
-## Note
-When you are editing this `shadowtools.cpp `, then use this command
-```
-g++ shadowtools.cpp icon.o -o ShadowTools.exe -mwindows -std=c++17 -lgdiplus -lwinmm -lole32 -luuid -lcomctl32
+## 🛠️ Build / Run (Windows, MinGW example)
 
+### With icon object (if you created `icon.o` from `icon.rc`)
+
+```powershell
+
+g++ shadowtools.cpp icon.o -o ShadowTools.exe -mwindows -std=c++17 \
+    -lgdiplus -lwinmm -lole32 -luuid -lcomctl32
 ```
+### Without `icon.o`
+
+```powershell
+g++ shadowtools.cpp -o ShadowTools.exe -mwindows -std=c++17 \
+    -lgdiplus -lwinmm -lole32 -luuid -lcomctl32
+```
+
+Run: double-click ShadowTools.exe or run from PowerShell/cmd.
+
+---
+## 👩‍💻 Editing & Notes
+Edit shadowtools.cpp to add features or change behavior (mock-scan logic, UI text, images).
+
+Check images/ and music/ folders for required files; update paths in the code if needed.
+
+Logs are written to logs.log in the application directory.
 
 ---
 ## 👋 Author
