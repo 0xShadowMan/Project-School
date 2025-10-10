@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://i.ibb.co/0cHcM7M/script-kiddie-banner.png" alt="Script Kiddie Ultra Pro Max Banner" width="800"/>
+![Banner](assets_github/banner.gif)
 </p>
 
 <h1 align="center">⚡ Script Kiddie: Ultra Pro Max ⚡</h1>
