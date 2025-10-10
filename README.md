@@ -1,7 +1,8 @@
 <!-- BANNER -->
 <p align="center">
-![Banner](assets_github/banner.gif)
+  <img src="assets_github/banner.gif" alt="Banner">
 </p>
+
 
 <h1 align="center">⚡ Script Kiddie: Ultra Pro Max ⚡</h1>
 <p align="center">
