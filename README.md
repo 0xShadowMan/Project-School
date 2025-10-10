@@ -49,5 +49,9 @@ Make cool videos like this, share with your friends
   Your browser does not support the video tag.
 </video>
 
+---
+## 👋 Author
 
+Shohanur (0xshadowman) — Student, builder, and creative tinkerer.
 
+Made for school. Stay curious. Stay ethical. 🚀
